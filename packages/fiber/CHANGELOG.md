@@ -1,5 +1,11 @@
 # @react-three/fiber
 
+## 7.0.29
+
+### Patch Changes
+
+- c99a175: fix native entrypoint
+
 ## 7.0.28
 
 ### Patch Changes
